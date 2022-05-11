@@ -106,8 +106,8 @@ BB-Gaming: Eerste Beoordeling: Week 9
 ## 6. Todo
 
 - [ ] initiële meeting 
-- [ ] init project & rnd repo (design doc)
-- [ ] eerste info in design doc (drie main elementen)
+- [x] init project & rnd repo (design doc)
+- [o] eerste info in design doc (drie main elementen)
 - [ ] globale brainstormsessie
 - [ ] maak eerste conceptschets
 
