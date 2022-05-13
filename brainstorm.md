@@ -1,47 +1,11 @@
-## general
-
-binding of isaac / minecraft dungeons
-
-hack n slash 
-top down
-
-levels/ areas
-
-pixelart
-
---
-
-## ideeen
-
-met docenten als rollen
-docenten abilities
-rob als eindbaas 1
-emiel als final eindbaas
-
-
-layers zijn de verschillende jaren
-
-verschillende levels/ areas
-    klaslokalen
-    docentenhok
-    cmgt hal
-    cmi gebouw
-    gangen
-    wc
-    dakterras
-    kantine
-    cmi gebouw
-    metro/ beurs
-    markthal
-
-verschillende playable characters
-
-
 ## brainstorm sessie 2022-05-12
 
 Kind of Fun: Discovery & Challenge
 Game Mechanic: Fight & Explore
 X-Factor: Docenten, Schoolgebouw & Rotterdam
+
+Doelen: Areas exploren en ememies vechten
+Endgoal: Defeat endboss and go to next floor
 
 ### Platform
 CMGT Arcade
@@ -56,7 +20,7 @@ singleplayer & local co-op
 pixelart
 topdown 2 point front isometric
 32 colors
-(inspiration: enter the gungeon)
+(inspiration: enter the gungeon / binding of isaac / minecraft dungeons / hack n slash / rogeu)
 
 
 ### Doelgroep
@@ -128,3 +92,8 @@ floors (per leerjaar 1 floor, 5 min per floor)
 
 
 scope eerste versie = floor 1 (eerste 5 min)
+
+## ideeen
+
+rob als eindbaas 1
+emiel als final eindbaas
