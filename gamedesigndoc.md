@@ -7,6 +7,7 @@ binding of isaac / minecraft dungeons
 
 hack n slash 
 top down
+rogue like
 
 levels/ areas
 
@@ -14,8 +15,8 @@ pixelart
 
 ### Gaminator
 
-Kind of Fun: Narrative & Discovery/Challenge/Fellowship
-Game Mechanic: Fight/Navigate/Explore
+Kind of Fun: Discovery & Challenge
+Game Mechanic: Fight & Explore
 X-Factor: Docenten, Schoolgebouw & Rotterdam
 
 ## 2. Eerste Conceptschets
@@ -51,4 +52,4 @@ X-Factor: Docenten, Schoolgebouw & Rotterdam
 
 ## 7. Octalysis Model
 
-## 8. TheUiteindelijke Conceptschets
+## 8. Uiteindelijke Conceptschets
