@@ -20,7 +20,7 @@ singleplayer & local co-op
 pixelart
 topdown 2 point front isometric
 32 colors
-(inspiration: enter the gungeon / binding of isaac / minecraft dungeons / hack n slash / rogeu)
+(inspiration: enter the gungeon / binding of isaac / minecraft dungeons / hack n slash / rogue)
 
 
 ### Doelgroep

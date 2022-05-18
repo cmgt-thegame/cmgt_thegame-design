@@ -109,9 +109,9 @@ BB-Gaming: Eerste Beoordeling: Week 9
 - [x] init project & rnd repo (design doc)
 - [x] eerste info in design doc (drie main elementen)
 - [x] globale brainstormsessie
-- [o] maak eerste conceptschets
+- [x] maak eerste conceptschets
 
-design doc: (lucas)
+design doc: (luuk)
 - [x] specifieke brainstormsessie van de volgende 5 onderwerpen 
 - [ ] Doelgroep
 - [ ] Platform
@@ -119,8 +119,8 @@ design doc: (lucas)
 - [ ] Thema
 - [ ] Extra Info uit Theorie
 
-development: (lucas + zino)
-- [ ] update this list after design doc
+development: (luuk + zino)
+- [x] update this list after design doc
 
 - [ ] init code repo & project 
 - [ ] implement pixiejs basics / add groundworks of code (game class etc)
@@ -128,23 +128,40 @@ development: (lucas + zino)
 - [ ] add controls
 - [ ] implement app doorgeven
 
-- [ ] make placeholder graphics for important objects
-  - [ ] ...
+- [ ] make placeholder graphics mvp
+  - [ ] player
+  - [ ] level tiles generic wood
+  - [ ] level tiles generic industrial
+  - [ ] enemy 1
+  - [ ] enemy 2
+  - [ ] generic npc
+  - [ ] boss
+
+  - [ ] door
+  - [ ] enemy 3
+  - [ ] enemy 4
+  - [ ] 2x2 table
+  - [ ] 1x2 table
+  - [ ] 1x1 table
+  - [ ] 1x3 table
 
 - [ ] add array van sprites
-- [ ] implement score bijhouden
-- [ ] add first enemy/npc class
+- [ ] add levelart
+- [ ] implement xp bijhouden (zino)
+- [ ] implement health bijhouden (luuk)
+- [ ] add enemy #1 (zino)
+- [ ] add enemy #2 (luuk)
 - [ ] add UI class
 - [ ] add collision detection
 - [ ] usertest prototype 1
-- [ ] add timer
-- [ ] add difficulty
+- [ ] add difficulty slider
 - [ ] add spawning
 - [ ] implement object pooling
 - [ ] implement objecten verwijderen
 - [ ] usertest prototype 2
 - [ ] implement meerdere soorten enemies/npcs
-- [ ] add second enemy
+- [ ] add peercoach npc
+- [ ] add boss erik
 - [ ] implement scenes wisselen
 - [ ] usertest prototype 3
 
@@ -158,9 +175,46 @@ bonus extra dev:
 graphic design: 
 (pixelart)
 
-- [ ] add items to list
+- [ ] mvp
+  - [ ] player character luuk
+  - [ ] player character zino
+  - [ ] player character dani
 
-- [ ] graphic design of important objects
-  - [ ] ...
+  - [ ] room tiles classroom
+  - [ ] room tiles hallway
+  - [ ] room tiles stairwell
+  - [ ] room tiles bathroom
+  - [ ] room tiles bossroom
+  - [ ] door
+  
+  - [ ] peercoach npc character
+  - [ ] enemy #1
+  - [ ] enemy #2
+  - [ ] enemy #3
+  - [ ] enemy #4
+  - [ ] boss
+
+  - [ ] UI
+    - [ ] sleepbar
+    - [ ] xp
+
+- [ ] shouldhave
+  - [ ] 2x2 table
+  - [ ] 1x1 table
+  - [ ] 1x2 table
+  - [ ] 1x3 table
+  - [ ] 1x4 table
+  - [ ] 2x3 table
+  - [ ] couch
+  - [ ] smartboard
+  - [ ] wood chair
+  - [ ] office chair
+  - [ ] elevator
+  - [ ] staircase
+  - [ ] sink
+  - [ ] sitting toilet
+  - [ ] standing toilet
+  - [ ] arcade machine
+  - [ ] coffee machine
 
 ## ...

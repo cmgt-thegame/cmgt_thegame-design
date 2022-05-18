@@ -1,5 +1,9 @@
 # Pixalart
 
+tiles: 16x16
+
+16x8 tiles default levels
+
 ## Color Pallette 
 
 https://lospec.com/palette-list/matt36
