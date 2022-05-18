@@ -122,9 +122,9 @@ design doc: (luuk)
 development: (luuk + zino)
 - [x] update this list after design doc
 
-- [ ] init code repo & project 
+- [x] init code repo & project 
 - [ ] implement pixiejs basics / add groundworks of code (game class etc)
-- [ ] add player
+- [o] add player
 - [ ] add controls
 - [ ] implement app doorgeven
 
@@ -176,7 +176,7 @@ graphic design:
 (pixelart)
 
 - [ ] mvp
-  - [ ] player character luuk
+  - [o] player character luuk
   - [ ] player character zino
   - [ ] player character dani
 
