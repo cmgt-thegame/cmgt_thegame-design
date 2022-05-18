@@ -34,7 +34,7 @@ Programmeren Features
 
 ## 4. Requirements
 
-Ontwerpen 4:
+Ontwerpen 4: (lucas)
 - [ ] Game Design Document
   - [ ] Doelgroep
   - [ ] Platform
@@ -44,7 +44,7 @@ Ontwerpen 4:
   - [ ] Opmaak document
   - [ ] Criteria Content Building Block (Opmaak)
 
-Programmeren 4:
+Programmeren 4: (zino & lucas)
 - [ ] start
   - [ ] startproject
   - [ ] pixijs basics
@@ -81,7 +81,7 @@ Programmeren 4:
   - [ ] pixijs advanced
   - [ ] vershillende game mechanics en systems
 
-BB Gaming:
+BB Gaming: (lucas)
 - [ ] individueel minimaal 3 prototypes (online speelbaar)
 - [ ] 3x onderzoek naar mechanics adv prototypes
 - [ ] onderzoek naar verschillende manieren van besturing
@@ -105,14 +105,14 @@ BB-Gaming: Eerste Beoordeling: Week 9
 
 ## 6. Todo
 
-- [ ] initiële meeting 
+- [x] initiële meeting 
 - [x] init project & rnd repo (design doc)
-- [o] eerste info in design doc (drie main elementen)
-- [ ] globale brainstormsessie
+- [x] eerste info in design doc (drie main elementen)
+- [x] globale brainstormsessie
 - [ ] maak eerste conceptschets
 
 design doc: (lucas)
-- [ ] specifieke brainstormsessie van de volgende 5 onderwerpen 
+- [x] specifieke brainstormsessie van de volgende 5 onderwerpen 
 - [ ] Doelgroep
 - [ ] Platform
 - [ ] Mechanics
