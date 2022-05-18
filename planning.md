@@ -109,7 +109,7 @@ BB-Gaming: Eerste Beoordeling: Week 9
 - [x] init project & rnd repo (design doc)
 - [x] eerste info in design doc (drie main elementen)
 - [x] globale brainstormsessie
-- [ ] maak eerste conceptschets
+- [o] maak eerste conceptschets
 
 design doc: (lucas)
 - [x] specifieke brainstormsessie van de volgende 5 onderwerpen 
