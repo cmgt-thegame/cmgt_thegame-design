@@ -2,15 +2,15 @@
 **Beta**
 
 ### Versions
-Current version: **v0.0.1**  
+Current version: **v0.0.1**  (aka beta v0.1)
 
-breaking/major changes (beta)
+breaking/major changes (beta)  
 v0.X.0  
 
-minor changes (beta)
+minor changes (beta)  
 v0.0.X  
 
-patch changes (beta)
+patch changes (beta)  
 v0.0.0.X  
 
 ### Branches
