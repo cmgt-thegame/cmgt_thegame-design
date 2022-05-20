@@ -123,13 +123,13 @@ development: (luuk + zino)
 - [x] update this list after design doc
 
 - [x] init code repo & project 
-- [ ] implement pixiejs basics / add groundworks of code (game class etc)
-- [o] add player
+- [o] implement pixiejs basics / add groundworks of code (game class etc)
+- [x] add player
 - [ ] add controls
 - [ ] implement app doorgeven
 
 - [ ] make placeholder graphics mvp
-  - [ ] player
+  - [x] player
   - [ ] level tiles generic wood
   - [ ] level tiles generic industrial
   - [ ] enemy 1
