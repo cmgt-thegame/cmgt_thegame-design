@@ -15,16 +15,18 @@ v0.0.0.X
 
 ### Branches
 
-prod  
-dev  
+prod   *(current newest production version)*
+dev  *(current working dev version)*
 
+*(branch for specific new features)*
 feature/...  
 bugfix/...
 
-branches of major versions  
-prod/v0.1  
-prod/v0.2
+branches of major versions *(archive of old major versions)*
+prod-v0.1  
+prod-v0.2
 
 ### Resources
 https://semver.org/
 https://dev.to/couchcamote/git-branching-name-convention-cch
+https://devconnected.com/how-to-switch-branch-on-git/

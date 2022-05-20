@@ -123,12 +123,11 @@ development: (luuk + zino)
 - [x] update this list after design doc
 
 - [x] init code repo & project 
-- [o] implement pixiejs basics / add groundworks of code (game class etc)
+- [x] implement pixiejs basics / add groundworks of code (game class etc)
 - [x] add player
-- [ ] add controls
-- [ ] implement app doorgeven
+- [x] add array van sprites
 
-- [ ] make placeholder graphics mvp
+- [o] make placeholder graphics mvp
   - [x] player
   - [ ] level tiles generic wood
   - [ ] level tiles generic industrial
@@ -145,12 +144,15 @@ development: (luuk + zino)
   - [ ] 1x1 table
   - [ ] 1x3 table
 
-- [ ] add array van sprites
+- [ ] make assetloader
 - [ ] add levelart
+- [ ] add level class, background
+- [ ] add player class
+- [ ] add controls
 - [ ] implement xp bijhouden (zino)
 - [ ] implement health bijhouden (luuk)
-- [ ] add enemy #1 (zino)
-- [ ] add enemy #2 (luuk)
+- [ ] add enemy #1 class (zino)
+- [ ] add enemy #2 class (luuk)
 - [ ] add UI class
 - [ ] add collision detection
 - [ ] usertest prototype 1
@@ -160,12 +162,13 @@ development: (luuk + zino)
 - [ ] implement objecten verwijderen
 - [ ] usertest prototype 2
 - [ ] implement meerdere soorten enemies/npcs
-- [ ] add peercoach npc
-- [ ] add boss erik
+- [ ] add peercoach npc class
+- [ ] add boss erik class
 - [ ] implement scenes wisselen
 - [ ] usertest prototype 3
 
 bonus extra dev:
+- [ ] ?implement app doorgeven
 - [ ] spritesheets
 - [ ] vector math
 - [ ] physics
@@ -177,8 +180,8 @@ graphic design:
 
 - [ ] mvp
   - [o] player character luuk
-  - [ ] player character zino
-  - [ ] player character dani
+  - [o] player character zino
+  - [o] player character dani
 
   - [ ] room tiles classroom
   - [ ] room tiles hallway
@@ -214,8 +217,9 @@ graphic design:
   - [ ] sink
   - [ ] sitting toilet
   - [ ] standing toilet
-  - [ ] arcade machine
+  - [o] arcade machine
   - [ ] coffee machine
+  - [x] item: redbull
 
 ## ...
 
