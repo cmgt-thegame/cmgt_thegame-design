@@ -127,7 +127,7 @@ development: (luuk + zino)
 - [x] add player
 - [x] add array van sprites
 
-- [o] make placeholder graphics mvp
+- [x] make placeholder graphics mvp
   - [x] player
   - [x] level tiles generic wood
   - [x] level tiles generic industrial
@@ -144,10 +144,10 @@ development: (luuk + zino)
   - [x] 1x1 table
   - [x] 1x3 table
 
-- [ ] make assetloader
+- [ ] make spritesheet loader
+- [x] add player class
 - [ ] add levelart
 - [ ] add level class, background
-- [ ] add player class
 - [ ] add controls
 - [ ] implement xp bijhouden (zino)
 - [ ] implement health bijhouden (luuk)
@@ -191,10 +191,10 @@ graphic design:
   - [ ] door
   
   - [ ] peercoach npc character
-  - [ ] enemy #1
-  - [ ] enemy #2
-  - [ ] enemy #3
-  - [ ] enemy #4
+  - [o] enemy #1
+  - [o] enemy #2
+  - [o] enemy #3
+  - [o] enemy #4
   - [ ] boss
 
   - [ ] UI
@@ -220,6 +220,8 @@ graphic design:
   - [o] arcade machine
   - [ ] coffee machine
   - [x] item: redbull
+  - [x] item: bitterballen
+  - [x] item: patatje
 
 ## ...
 
