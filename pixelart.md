@@ -2,7 +2,9 @@
 
 tiles: 16x16
 
-16x8 tiles default levels
+16x8/10 tiles default levels
+
+licht valt van boven links
 
 ## Color Pallette 
 

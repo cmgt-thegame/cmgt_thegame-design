@@ -129,8 +129,8 @@ development: (luuk + zino)
 
 - [o] make placeholder graphics mvp
   - [x] player
-  - [ ] level tiles generic wood
-  - [ ] level tiles generic industrial
+  - [x] level tiles generic wood
+  - [x] level tiles generic industrial
   - [ ] enemy 1
   - [ ] enemy 2
   - [ ] generic npc
@@ -139,10 +139,10 @@ development: (luuk + zino)
   - [ ] door
   - [ ] enemy 3
   - [ ] enemy 4
-  - [ ] 2x2 table
-  - [ ] 1x2 table
-  - [ ] 1x1 table
-  - [ ] 1x3 table
+  - [x] 2x2 table
+  - [x] 1x2 table
+  - [x] 1x1 table
+  - [x] 1x3 table
 
 - [ ] make assetloader
 - [ ] add levelart
