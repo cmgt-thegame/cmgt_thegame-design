@@ -131,12 +131,12 @@ development: (luuk + zino)
   - [x] player
   - [x] level tiles generic wood
   - [x] level tiles generic industrial
-  - [ ] enemy 1
-  - [ ] enemy 2
-  - [ ] generic npc
-  - [ ] boss
+  - [x] enemy 1
+  - [x] enemy 2
+  - [x] generic npc
+  - [x] boss
 
-  - [ ] door
+  - [x] door
   - [ ] enemy 3
   - [ ] enemy 4
   - [x] 2x2 table
