@@ -137,8 +137,8 @@ development: (luuk + zino)
   - [x] boss
 
   - [x] door
-  - [ ] enemy 3
-  - [ ] enemy 4
+  - [x] enemy 3
+  - [x] enemy 4
   - [x] 2x2 table
   - [x] 1x2 table
   - [x] 1x1 table
