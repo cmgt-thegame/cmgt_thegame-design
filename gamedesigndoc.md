@@ -48,19 +48,16 @@ Waarschijnlijk zijn dit de 4 groepen die het meest voorkomen: (deze komen sowies
 
 ## 4. Platform
 
+De game word als hoofdplatform voor de CMGT Arcade machine ontwikkeld. Dit heeft een 16:9 1080p scherm. 2 player input met per player een joystick en 6 button.
+Ook willen we het speelbaar maken voor normale desktop/web.
+
 CMGT Arcade
 - joysticks & buttons
 
 Web (Desktop)
 - keyboard
 
-singleplayer & local co-op
-
-### Interaction Type
-
-### Device Type
-
-### Control Type
+De game is mainly singleplayer maar we willen er ook een mogelijkheid voor local co-op in maken. Dan werk je samen om hetzelfde doel te bereiken.
 
 ## 5. Mechanics
 
