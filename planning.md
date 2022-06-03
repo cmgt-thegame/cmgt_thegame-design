@@ -147,13 +147,13 @@ development: (luuk + zino)
 - [ ] make spritesheet loader
 - [x] add player class
 - [ ] add levelart
-- [ ] add level class, background
+- [ ] add level class, background 
 - [ ] add controls
 - [ ] implement xp bijhouden (zino)
 - [ ] implement health bijhouden (luuk)
-- [ ] add enemy #1 class (zino)
-- [ ] add enemy #2 class (luuk)
-- [ ] add UI class
+- [o] add enemy #1 class (luuk)
+- [ ] add enemy #2 class (zino)
+- [o] add UI class
 - [ ] add collision detection
 - [ ] usertest prototype 1
 - [ ] add difficulty slider
