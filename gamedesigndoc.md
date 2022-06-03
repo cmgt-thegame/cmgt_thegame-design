@@ -1,6 +1,9 @@
 # Game Design Document (CMGT: The Game)
 2022-05-11
 
+
+<!-- TODO: insert conceptart pics -->
+
 ## 1. Global Idea
 
 Kind of Fun: Discovery & Challenge
@@ -17,7 +20,7 @@ Endgoal: Defeat endboss and go to next floor
 
 ## 2. Eerste Conceptschets
 
-
+<!-- TODO: insert eerste conceptschets -->
 
 ## 3. Doelgroep
 
