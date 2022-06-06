@@ -1,5 +1,5 @@
 # Game Design Document (CMGT: The Game)
-2022-05-11
+2022-06-06
 
 
 <!-- TODO: insert conceptart pics -->
@@ -12,7 +12,7 @@ X-Factor: Docenten, Schoolgebouw & Rotterdam
 
 pixelart
 topdown 2 point front isometric
-32 colors
+32~ colors
 inspiration: enter the gungeon / binding of isaac / minecraft dungeons / hack n slash / rogeu
 
 Doelen: Areas exploren en ememies vechten
@@ -64,7 +64,7 @@ De game is mainly singleplayer maar we willen er ook een mogelijkheid voor local
 
 ## 5. Mechanics
 
-### Mechanics
+### 5.1 Mechanics
 
 Main Mechanics:
 
@@ -77,7 +77,7 @@ Main Mechanics:
 Combos:
 - Dash + Attack 
 
-### Regels
+### 5.2 Regels
 
 Een player kan vrij rondlopen door het level, interacten met items en deuren openen. Bij het binnenkomen van een nieuwe kamer worden de enemies wakker en moeten die bevecht worden.
 
@@ -90,7 +90,9 @@ Bij het vechten obtain je `XP` punten, die kan je later gebruiken om buffs van t
 
 De eerste floor moet ongeveer 5 min speeltijd zijn bij een gemiddelde playthrough. Op het einde laten we zien hoelang je over het level hebt gedaan voor eventuele speedrunners. (Hier komt dan ook een scoreboard voor)
 
-### Entities
+De balangrijkste dingen die een player doet is areas exploren en enemies vechten. Het eindgoal per floor is de endboss verslaan en advancen naar de volgende floor. Totdat je bij de laatste floor bent aangekomen (in de MVP is er maar 1 floor) en dan heb je die run gewonnen en krijg je je stats te zien.
+
+### 5.3 Entities
 
 De enemies zijn op hol geslagen IoT robots, waar je later in het verhaal meer over te weten komt. Elke robot heeft zijn eigen karakteristieken en vormgeving. 
 
@@ -99,7 +101,7 @@ Elke floor heeft een `endboss` deze moet je verslaan om die floor te halen. Na h
 Sommige speciale rooms hebben ook hun eigen `minibosses` met een eigen verhaal en speciale abilities.
 
 
-### Items
+### 5.4 Items
 
 Redbull
 - 1 deel erbij (kan extra)
@@ -117,7 +119,7 @@ Tosti
 - Refill (tot max)
 
 
-### Buffs
+### 5.5 Buffs
 
 De buffs worden als permanent item toegepast en de vormgeving is buildingblocks. Om een buff te kopen moet je xp points gebruiken.
 
@@ -139,15 +141,24 @@ Doelgroep (500xp)
 
 ## 6. Thema
 
-pixelart
-topdown 2 point front isometric
-32 colors
-(inspiration: enter the gungeon / binding of isaac / minecraft dungeons / hack n slash / rogeu)
+CMGT: The Game is in retro een pixelart style. Het is vanuit een topdown 2 point front isomentric perspectief. De pixelart tiles in de game zijn 16x16 pixels en een scherm heeft. Een gemiddelde room is 16x12 tiles. Het kleurpallet heeft 36 kleuren, waarvan 8 hoofd gradients. Het licht valt in het algemeen vanaf boven links.
+De grootste inpiratiebronnen van de style zijn: Enter the Gungeon / Binding of Isaac / Minecraft Ddungeons / Hack 'n Slash / Rogeu
+
 
 ### Moodboard
 
-### Styleguide
+<!-- TODO: insert moodboard screens -->
+
+### Colorpalette
+
+Het kleurpalette Wat gebruikt word is: MATT36 (https://lospec.com/palette-list/matt36)
+
+<!-- TODO: insert pic matt36 palette -->
 
 ## 7. Octalysis Model
 
+
+
 ## 8. Uiteindelijke Conceptschets
+
+<!-- TODO: insert final conceptschets -->
