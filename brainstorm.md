@@ -78,17 +78,20 @@ enemies
 floors (per leerjaar 1 floor, 5 min per floor)
     subareas (generating areas, multiple rooms, camera zoom)
         stadslab
-        klaslokalen
-        docentenhok
         cmgt hal
-        cmi gebouw
-        gangen
-        wc
+        generic cmi gebouw area
+        wijnhaven straat
+        markthal
+        metro/ beurs
+    rooms (parts of subareas)
+        classroomx
+        hallway
+        bathroom
+        stairwell  
+        docentenhok
         dakterras
         kantine
-        cmi gebouw
-        metro/ beurs
-        markthal
+        bossroom   
 
 
 scope eerste versie = floor 1 (eerste 5 min)

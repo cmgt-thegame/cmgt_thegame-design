@@ -64,74 +64,9 @@ De game is mainly singleplayer maar we willen er ook een mogelijkheid voor local
 
 ## 5. Mechanics
 
-lopen
-attack (weapons)
-    hack sword (tech explosion death)
-dash
-combos
-
-sleeping points / awake bar (hp)
-
-xp (gained by fighting)
-
-items (gained by exploring)
-    koffie
-    redbull
-    eten
-
-buffs (building blocks)
-
-playable characters (skins)
-    zino
-    dani
-    lucas
-
-enemies
-    robots
-        #1 slow accurate melee robot (cle1 robot, servo arm)
-        #2 fast inaccurate charge delay melee robot (op hol geslagen deelscooter)
-        #3 fast inaccurate shooting robot (cle1 robot, schiet pcb board stukjes)
-        #4 slow accurate shooting robot (cle1 robot, confetti kanon)
-    minibosses
-        Marloes
-            stadslab
-            lasers
-        Rene
-            following
-            appears out of nowhere
-    bosses
-        Erik    
-            capibaras
-            tamagochi
-            AI
-            games
-
-floors (per leerjaar 1 floor, 5 min per floor)
-    subareas (generating areas, multiple rooms, camera zoom)
-        stadslab
-        cmgt hal
-        generic cmi gebouw area
-        wijnhaven straat
-        markthal
-        metro/ beurs
-    rooms (parts of subareas)
-        classroomx
-        hallway
-        bathroom
-        stairwell  
-        docentenhok
-        dakterras
-        kantine
-        bossroom   
-
-
-scope eerste versie = floor 1 (eerste 5 min)
-
-
-
 ### Mechanics
 
-Main Mechanics
+Main Mechanics:
 
 1. Move
 
@@ -149,8 +84,13 @@ Een player kan vrij rondlopen door het level, interacten met items en deuren ope
 De `floor` (een samenkomst van meerdere `rooms`) is procedurally gegenereerd met een vaste compositie van soorten rooms. De eerste floor moet een generic hogeschool rotterdam wijnhaven feel hebben.
 
 Je hebt als player de `energy bar`, wanneer je aangevallen word gaat deze bar naar beneden. Als deze op 0 staat ben je uitgeput en ben je gameover. Om energie erbij te krijgen kun je items of buffs gebruiken.
+De energybar bestaat uit 3 delen die per deel ook half kunnen zijn. Dit zorgt voor een scale van 0-5. Het kan ook hoger dan de max komen en met een buff kan het max permanent hoger worden.
 
 Bij het vechten obtain je `XP` punten, die kan je later gebruiken om buffs van te krijgen. Ook word de totale XP gebruikt om je op een leaderboard te kunnen plaatsten.
+
+De eerste floor moet ongeveer 5 min speeltijd zijn bij een gemiddelde playthrough. Op het einde laten we zien hoelang je over het level hebt gedaan voor eventuele speedrunners. (Hier komt dan ook een scoreboard voor)
+
+### Entities
 
 De enemies zijn op hol geslagen IoT robots, waar je later in het verhaal meer over te weten komt. Elke robot heeft zijn eigen karakteristieken en vormgeving. 
 
@@ -158,7 +98,44 @@ Elke floor heeft een `endboss` deze moet je verslaan om die floor te halen. Na h
 
 Sommige speciale rooms hebben ook hun eigen `minibosses` met een eigen verhaal en speciale abilities.
 
-### Items/entities
+
+### Items
+
+Redbull
+- 1 deel erbij (kan extra)
+
+Koffie
+- 1 extra deel erbij
+
+Patatje
+- 2 delen erbij (tot max)
+
+Bitterballen
+- 4 delen erbij (tot max)
+
+Tosti
+- Refill (tot max)
+
+
+### Buffs
+
+De buffs worden als permanent item toegepast en de vormgeving is buildingblocks. Om een buff te kopen moet je xp points gebruiken.
+
+Clever (100xp)
+- 1 energy bar part added
+
+Iron Man (250xp)
+- 25% damage reduction
+
+Front End (250xp)
+- 25% faster moving
+
+Being-a-boss (500xp)
+- 50% more damage to bosses and minibosses
+
+Doelgroep (500xp)
+- 25% more damage to enemies
+
 
 ## 6. Thema
 
