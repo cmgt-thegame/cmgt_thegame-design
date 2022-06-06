@@ -206,6 +206,8 @@ Je kan doodgaan en alles verliezen (progress loss)
 De indeling van rooms zal maar 1x zo zijn
 
 
+<!-- TODO: insert oct model pic -->
+
 
 ## 8. Uiteindelijke Conceptschets
 
