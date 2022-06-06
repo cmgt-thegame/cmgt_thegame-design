@@ -36,8 +36,8 @@ Programmeren Features
 
 Ontwerpen 4: (lucas)
 - [ ] Game Design Document
-  - [ ] Doelgroep
-  - [ ] Platform
+  - [x] Doelgroep
+  - [x] Platform
   - [ ] Mechanics
   - [ ] Thema
   - [ ] Extra Info uit Theorie
@@ -113,11 +113,12 @@ BB-Gaming: Eerste Beoordeling: Week 9
 
 design doc: (luuk)
 - [x] specifieke brainstormsessie van de volgende 5 onderwerpen 
-- [ ] Doelgroep
-- [ ] Platform
+- [x] Doelgroep
+- [x] Platform
 - [ ] Mechanics
 - [ ] Thema
 - [ ] Extra Info uit Theorie
+- [ ] opmaak
 
 development: (luuk + zino)
 - [x] update this list after design doc
@@ -129,6 +130,7 @@ development: (luuk + zino)
 
 - [x] make placeholder graphics mvp
   - [x] player
+  - [ ] hack sword
   - [x] level tiles generic wood
   - [x] level tiles generic industrial
   - [x] enemy 1
@@ -182,6 +184,7 @@ graphic design:
   - [o] player character luuk
   - [o] player character zino
   - [o] player character dani
+  - [ ] hack sword
 
   - [ ] room tiles classroom
   - [ ] room tiles hallway

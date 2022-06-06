@@ -128,9 +128,35 @@ floors (per leerjaar 1 floor, 5 min per floor)
 scope eerste versie = floor 1 (eerste 5 min)
 
 
-### Regels
 
 ### Mechanics
+
+Main Mechanics
+
+1. Move
+
+2. Attack (hack sword)
+
+3. Dash
+
+Combos:
+- Dash + Attack 
+
+### Regels
+
+Een player kan vrij rondlopen door het level, interacten met items en deuren openen. Bij het binnenkomen van een nieuwe kamer worden de enemies wakker en moeten die bevecht worden.
+
+De `floor` (een samenkomst van meerdere `rooms`) is procedurally gegenereerd met een vaste compositie van soorten rooms. De eerste floor moet een generic hogeschool rotterdam wijnhaven feel hebben.
+
+Je hebt als player de `energy bar`, wanneer je aangevallen word gaat deze bar naar beneden. Als deze op 0 staat ben je uitgeput en ben je gameover. Om energie erbij te krijgen kun je items of buffs gebruiken.
+
+Bij het vechten obtain je `XP` punten, die kan je later gebruiken om buffs van te krijgen. Ook word de totale XP gebruikt om je op een leaderboard te kunnen plaatsten.
+
+De enemies zijn op hol geslagen IoT robots, waar je later in het verhaal meer over te weten komt. Elke robot heeft zijn eigen karakteristieken en vormgeving. 
+
+Elke floor heeft een `endboss` deze moet je verslaan om die floor te halen. Na het killen van de endboss krijg je rewards in de vorm van items, buffs en XP. De endbosses zijn elke keer een CMGT docent.
+
+Sommige speciale rooms hebben ook hun eigen `minibosses` met een eigen verhaal en speciale abilities.
 
 ### Items/entities
 
