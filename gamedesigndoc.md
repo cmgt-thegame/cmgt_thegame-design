@@ -157,6 +157,54 @@ Het kleurpalette Wat gebruikt word is: MATT36 (https://lospec.com/palette-list/m
 
 ## 7. Octalysis Model
 
+https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
+https://yukaichou.com/octalysis-tool/
+
+Als extra info vanuit de geleerde theorie heb ik het octalysis model gepakt. Dit model geeft mooi weer wat voor soort game het is.
+
+### 7.1 Epic meaning and Calling [6]
+Verhaal over CMGT
+Herkenbare CMGT dingen
+Een fantasiewereld van school maken
+
+### 7.2 Development and Accomplishment [9]
+Enemies vechten
+Bosses vechten
+Rooms overwinnen
+XP
+Leaderboards
+Timer
+
+### 7.3 Empowerment of Creativity and Feedback [5]
+Kiezen van buffs
+Wanneer gebruik maken van items
+Zelf weten welke route je neemt en of je veel wil exploren
+
+### 7.4 Ownership and Possession [3]
+Het kiezen van buffs
+Het hebben van items
+verdiende XP
+
+### 7.5 Social Influence and Relatedness [2]
+Co-op
+Spelen terwijl andere mensen meekijken
+Herkenbare dingen van CMGT
+mensen die praten over de game
+
+### 7.6 Scarcity and Impatience [1]
+Je kan niet alle buffs kopen
+
+### 7.7 Curiosity and Unpredictability [9]
+Nieuwe rooms exploren in de floor
+Nieuwe emenies ontdekkeen
+nieuwe items/buffs ontdekken
+Elke playthorugh een andere indeling
+
+
+### 7.8 Loss and Avoidance [7]
+Je kan doodgaan en alles verliezen (progress loss)
+De indeling van rooms zal maar 1x zo zijn
+
 
 
 ## 8. Uiteindelijke Conceptschets

@@ -115,10 +115,13 @@ design doc: (luuk)
 - [x] specifieke brainstormsessie van de volgende 5 onderwerpen 
 - [x] Doelgroep
 - [x] Platform
-- [ ] Mechanics
-- [ ] Thema
-- [ ] Extra Info uit Theorie
-- [ ] opmaak
+- [x] Mechanics
+- [x] Thema
+- [ ] Octalysis Modeel
+- [ ] Opmaak Onepager
+- [ ] inleveren
+
+- [ ] pitch voorbereiden
 
 development: (luuk + zino)
 - [x] update this list after design doc
@@ -226,6 +229,6 @@ graphic design:
   - [x] item: bitterballen
   - [x] item: patatje
 
-## ...
+## Resources
 
 http://filters.pixijs.download/dev/demo/index.html
