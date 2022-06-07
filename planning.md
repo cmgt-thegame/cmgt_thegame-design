@@ -151,16 +151,17 @@ development: (luuk + zino)
 
 - [ ] make spritesheet loader
 - [x] add player class
-- [ ] add levelart
-- [ ] add level class, background 
+- [x] add levelart
+- [x] add level class, background 
 - [ ] add controls
-- [ ] implement xp bijhouden (zino)
-- [ ] implement health bijhouden (luuk)
+- [ ] moving background
 - [o] add enemy #1 class (luuk)
 - [ ] add enemy #2 class (zino)
 - [o] add UI class
 - [ ] add collision detection
 - [ ] usertest prototype 1
+- [ ] implement xp bijhouden (zino)
+- [ ] implement health bijhouden (luuk)
 - [ ] add difficulty slider
 - [ ] add spawning
 - [ ] implement object pooling
@@ -204,7 +205,7 @@ graphic design:
   - [ ] boss
 
   - [ ] UI
-    - [ ] sleepbar
+    - [ ] energybar
     - [ ] xp
 
 - [ ] shouldhave
