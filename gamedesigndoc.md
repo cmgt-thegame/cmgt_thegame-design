@@ -1,5 +1,5 @@
 # Game Design Document (CMGT: The Game)
-2022-06-06
+2022-06-08
 
 
 <!-- TODO: insert conceptart pics -->
@@ -30,7 +30,7 @@ CMGTers
   
 De twee hoofddoelgroepen bestaan uit studenten en docenten van CMGT die toevallig langs de arcade machine komen. Ook zullen er een paar mensen van andere studies of die op bezoek zijn langs lopen. 
 
-De doelgroep bestaat voor het grooste gedeelte uit ervaren gamers vanuit veel verschillende genres. Ook hebben de meeste mensen in de doelgroep ervaring met game design.
+De doelgroep bestaat voor het grootste gedeelte uit ervaren gamers vanuit veel verschillende genres. Ook hebben de meeste mensen in de doelgroep ervaring met game design.
 
 Omdat de arcade machine een kleine tijdverdrijf is (Bijvoorbeeld in de lunchpauze) en je niet mensen onproductief wil maken moet de game kort en duidelijk zijn. Ook moet het niet te moeilijk zijn om te zorgen voor een ontspannend/satisfied gevoel.
 
@@ -40,7 +40,7 @@ Daarom moet de game in het begin makkelijk zijn en gefocust zijn op exploration.
 ### Bartle Player Type
 Het is lastig in te delen welke bartle player type deze doelgroep is aangezien het een brede groep players is. Mijn gok is dat het redelijk verdeelt is en er van elke soort wel evenveel mensen zijn. Hier zou nog grondig gebruikersonderzoek naar gedaan moeten worden.
 
-### NewZoo Plater Type
+### NewZoo Player Type
 Ook hier heb je waarschijnlijk weer van elke type wel een boel mensen. Wel is het merendeel van de mensen in het verleden een committed gamer geweest en is tegenwoordig iets meer casual. Die valt in de categorie (The Lapsed Gamer)
 
 Waarschijnlijk zijn dit de 4 groepen die het meest voorkomen: (deze komen sowieso al veel voor in een gemiddelde populatie)
@@ -129,10 +129,10 @@ Clever (100xp)
 Iron Man (250xp)
 - 25% damage reduction
 
-Front End (250xp)
+Front-end (250xp)
 - 25% faster moving
 
-Being-a-boss (500xp)
+Being-a-Boss (500xp)
 - 50% more damage to bosses and minibosses
 
 Doelgroep (500xp)
@@ -141,8 +141,8 @@ Doelgroep (500xp)
 
 ## 6. Thema
 
-CMGT: The Game is in retro een pixelart style. Het is vanuit een topdown 2 point front isomentric perspectief. De pixelart tiles in de game zijn 16x16 pixels en een scherm heeft. Een gemiddelde room is 16x12 tiles. Het kleurpallet heeft 36 kleuren, waarvan 8 hoofd gradients. Het licht valt in het algemeen vanaf boven links.
-De grootste inpiratiebronnen van de style zijn: Enter the Gungeon / Binding of Isaac / Minecraft Ddungeons / Hack 'n Slash / Rogeu
+CMGT: The Game is in een retro pixelart style. Het is vanuit een topdown 2 point front isometric perspectief. De pixelart tiles in de game zijn 16x16 pixels en een scherm heeft. Een gemiddelde room is 16x12 tiles. Het kleurpallet heeft 36 kleuren, waarvan 8 hoofd gradients. Het licht valt in het algemeen vanaf boven links.
+De grootste inpiratiebronnen van de style zijn: Enter the Gungeon / Binding of Isaac / Minecraft Dungeons / Hack 'n Slash / Rogeu
 
 
 ### Moodboard
