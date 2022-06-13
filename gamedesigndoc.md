@@ -104,19 +104,19 @@ Sommige speciale rooms hebben ook hun eigen `minibosses` met een eigen verhaal e
 ### 5.4 Items
 
 Redbull
-- 1 deel erbij (kan extra)
+- 1 energy deel erbij (kan boven max)
 
 Koffie
-- 1 extra deel erbij
+- 1 extra energy deel erbij
 
 Patatje
-- 2 delen erbij (tot max)
+- 2 energy delen erbij (tot max)
 
 Bitterballen
-- 4 delen erbij (tot max)
+- 4 energy delen erbij (tot max)
 
 Tosti
-- Refill (tot max)
+- Refill energy (tot max)
 
 
 ### 5.5 Buffs
