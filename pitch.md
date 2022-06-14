@@ -12,48 +12,50 @@ CMGT Studenten & Docenten
 
 ## Script
 
-Context 
+1. Context 
 
 Je loopt in de pauze door de gang van cmgt en ziet de arcade machine staan.
 
 
-Probleem
+2. Probleem
 
 Je speelt een aantal van de games erop, maar merkt al snel dat de meeste games niet heel polished zijn en niet erg replayable zijn waardoor je er niet vaak terug naar toe komt.
 
 
-Solution (global idea)
+3. Solution (global idea)
 
 Daarom hebben wij `CMGT: The Game` bedacht, dit is een topdown pixelart style roguelike die zich in de school afspeelt.
 
 
-Kinds of Fun
+4. Kinds of Fun
 
 Met als main kinds of fun discovery & challenge.
 
 
-Main Mechanics
+5. Main Mechanics
 
 De hoofd mechanics zijn: exploration & fighting. Daaromheen zijn verschillende extra features.
 
 
-Userbase Potential
+6. Userbase Potential
 
 Er lopen dagelijks veel mensen langs de arcade machine, dus er zijn veel mensen die in contact komen met de game en het kunnen uitproberen.
 
 
-3 leuke extra features
+7. 3 leuke extra features
 
-Health word in onze game dmv `energypoints` gedaan en je kan energie erbij krijgen met het drinken van koffie of het eten van een tosti.
+7.1. Health word in onze game dmv `energypoints` gedaan en je kan energie erbij krijgen met het drinken van koffie of het eten van een tosti.
 
-Je vecht met op hol geslagen iot robots, die worden aangestuurd door een mysterieus figuur.
+7.2. Je vecht met op hol geslagen iot robots, die worden aangestuurd door een mysterieus figuur.
 
-Elke floor is procedurally generated zodat elk potje anders kan zijn. Zo moet je ook een beetje geluk hebben om een hoog plekje op het leaderboard te krijgen.
+7.3. Elke floor is procedurally generated zodat elk potje anders kan zijn. Zo moet je ook een beetje geluk hebben om een hoog plekje op het leaderboard te krijgen.
 
 
-Call to Action
+8. Call to Action
 
-Speel nu onze game! (op de Arcade Machine in de CMGT Hal)
+Speel nu onze game binnekort! (op de Arcade Machine in de CMGT Hal)
+
+Scan de qr code 
 
 
 ## Checklist
