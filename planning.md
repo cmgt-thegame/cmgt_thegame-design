@@ -153,14 +153,15 @@ development: (luuk + zino)
 - [x] add player class
 - [x] add levelart
 - [x] add level class, background 
-- [ ] add controls
-- [ ] moving background
+- [x] add controls
+- [o] moving background
 - [o] add enemy #1 class (luuk)
-- [ ] add enemy #2 class (zino)
+- [-] add enemy #2 class (zino)
 - [o] add UI class
-- [ ] add collision detection
+- [x] add collision detection
 - [ ] usertest prototype 1
-- [ ] implement xp bijhouden (zino)
+- [ ] add weapon & kill enemy
+- [-] implement xp bijhouden (zino)
 - [ ] implement health bijhouden (luuk)
 - [ ] add difficulty slider
 - [ ] add spawning
