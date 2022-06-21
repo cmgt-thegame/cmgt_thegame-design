@@ -159,8 +159,7 @@ development: (luuk + zino)
 - [-] add enemy #2 class (zino)
 - [o] add UI class
 - [x] add collision detection
-- [ ] create prot1 branch
-- [ ] usertest prototype 1
+- [x] create prot1 branch
 - [ ] add weapon & kill enemy
 - [-] implement xp bijhouden (zino)
 - [ ] implement health bijhouden (luuk)
@@ -169,12 +168,13 @@ development: (luuk + zino)
 - [ ] implement object pooling
 - [ ] implement objecten verwijderen
 - [ ] create prot2 branch
-- [ ] usertest prototype 2
 - [ ] implement meerdere soorten enemies/npcs
 - [ ] add peercoach npc class
 - [ ] add boss erik class
 - [ ] implement scenes wisselen
 - [ ] create prot3 branch
+- [ ] usertest prototype 1
+- [ ] usertest prototype 2
 - [ ] usertest prototype 3
 
 bonus extra dev:
