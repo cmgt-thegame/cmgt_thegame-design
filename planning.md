@@ -155,30 +155,30 @@ development: (luuk + zino)
 - [x] add level class, background 
 - [x] add controls
 - [o] moving background
-- [o] add enemy #1 class (luuk)
+- [x] add enemy #1 class (luuk)
 - [-] add enemy #2 class (zino)
 - [o] add UI class
 - [x] add collision detection
 - [x] create prot1 branch
-- [ ] add weapon & kill enemy
+- [x] add weapon & kill enemy
+- [ ] create prot2 branch
 - [-] implement xp bijhouden (zino)
 - [ ] implement health bijhouden (luuk)
 - [ ] add difficulty slider
-- [ ] add spawning
-- [ ] implement object pooling
-- [ ] implement objecten verwijderen
-- [ ] create prot2 branch
-- [ ] implement meerdere soorten enemies/npcs
-- [ ] add peercoach npc class
-- [ ] add boss erik class
-- [ ] implement scenes wisselen
 - [ ] create prot3 branch
 - [ ] usertest prototype 1
 - [ ] usertest prototype 2
 - [ ] usertest prototype 3
 
 bonus extra dev:
-- [ ] ?implement app doorgeven
+- [ ] add spawning
+- [ ] implement object pooling
+- [ ] implement objecten verwijderen
+- [ ] implement meerdere soorten enemies/npcs
+- [ ] add peercoach npc class
+- [ ] add boss erik class
+- [ ] implement scenes wisselen
+- [x] implement app doorgeven
 - [ ] spritesheets
 - [ ] vector math
 - [ ] physics
