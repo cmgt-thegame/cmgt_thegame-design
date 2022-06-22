@@ -35,51 +35,51 @@ Programmeren Features
 ## 4. Requirements
 
 Ontwerpen 4: (lucas)
-- [ ] Game Design Document
+- [x] Game Design Document
   - [x] Doelgroep
   - [x] Platform
-  - [ ] Mechanics
-  - [ ] Thema
-  - [ ] Extra Info uit Theorie
-  - [ ] Opmaak document
-  - [ ] Criteria Content Building Block (Opmaak)
+  - [x] Mechanics
+  - [x] Thema
+  - [x] Extra Info uit Theorie
+  - [x] Opmaak document
+  - [?] Criteria Content Building Block (Opmaak)
 
 Programmeren 4: (zino & lucas)
-- [ ] start
-  - [ ] startproject
-  - [ ] pixijs basics
-- [ ] classes en instances
-  - [ ] game class
+- [x] start
+  - [x] startproject
+  - [x] pixijs basics
+- [x] classes en instances
+  - [x] game class
   - [ ] array van sprites
-  - [ ] instances
-- [ ] composition
-  - [ ] composition classes
-  - [ ] enemy/npc class
-  - [ ] arrays
+  - [x] instances
+- [x] composition
+  - [x] composition classes
+  - [x] enemy/npc class
+  - [x] arrays
   - [ ] click event
-- [ ] encapsulation
-  - [ ] app doorgeven
-  - [ ] score bijhouden
-  - [ ] UI class
-  - [ ] encapsulation classes
-  - [ ] keyboard controls
-  - [ ] collision detection
+- [x] encapsulation
+  - [x] app doorgeven
+  - [x] score bijhouden
+  - [x] UI class
+  - [x] encapsulation classes
+  - [x] keyboard controls
+  - [x] collision detection
 - [ ] game development
   - [ ] timer
   - [ ] moeilijkheidsgraad
   - [ ] spawning
   - [ ] object pooling
-  - [ ] objecten verwijderen
+  - [x] objecten verwijderen
 - [ ] inheritance
   - [ ] meerdere soorten enemies/npcs
   - [ ] scenes wisselen
 
-- [ ] game development extra
-  - [ ] spritesheets
-  - [ ] vector math
-  - [ ] physics
-  - [ ] pixijs advanced
-  - [ ] vershillende game mechanics en systems
+- [-] game development extra
+  - [-] spritesheets
+  - [-] vector math
+  - [-] physics
+  - [-] pixijs advanced
+  - [x] vershillende game mechanics en systems
 
 BB Gaming: (lucas)
 - [ ] individueel minimaal 3 prototypes (online speelbaar)
@@ -117,11 +117,11 @@ design doc: (luuk)
 - [x] Platform
 - [x] Mechanics
 - [x] Thema
-- [ ] Octalysis Modeel
-- [ ] Opmaak Onepager
-- [ ] inleveren
+- [x] Octalysis Model
+- [x] Opmaak Onepager
+- [x] inleveren
 
-- [ ] pitch voorbereiden
+- [x] pitch voorbereiden
 
 development: (luuk + zino)
 - [x] update this list after design doc
@@ -133,7 +133,7 @@ development: (luuk + zino)
 
 - [x] make placeholder graphics mvp
   - [x] player
-  - [ ] hack sword
+  - [x] hack sword
   - [x] level tiles generic wood
   - [x] level tiles generic industrial
   - [x] enemy 1
@@ -149,41 +149,42 @@ development: (luuk + zino)
   - [x] 1x1 table
   - [x] 1x3 table
 
-- [ ] make spritesheet loader
+- [-] make spritesheet loader
 - [x] add player class
 - [x] add levelart
 - [x] add level class, background 
 - [x] add controls
-- [o] moving background
+- [-] moving background
 - [x] add enemy #1 class (luuk)
 - [-] add enemy #2 class (zino)
-- [o] add UI class
+- [x] add UI class
 - [x] add collision detection
 - [x] create prot1 branch
 - [x] add weapon & kill enemy
-- [ ] create prot2 branch
-- [-] implement xp bijhouden (zino)
-- [ ] implement health bijhouden (luuk)
-- [ ] add difficulty slider
-- [ ] create prot3 branch
+- [x] create prot2 branch
+- [x] implement xp bijhouden (zino)
+- [x] implement health bijhouden (luuk)
+- [x] add difficulty slider
+- [x] create prot3 branch (update prod)
 - [ ] usertest prototype 1
 - [ ] usertest prototype 2
 - [ ] usertest prototype 3
 
 bonus extra dev:
-- [ ] add spawning
-- [ ] implement object pooling
-- [ ] implement objecten verwijderen
-- [ ] implement meerdere soorten enemies/npcs
-- [ ] add peercoach npc class
-- [ ] add boss erik class
-- [ ] implement scenes wisselen
+- [-] add spawning
+- [-] implement object pooling
+- [-] implement objecten verwijderen
+- [-] implement meerdere soorten enemies/npcs
+- [-] add peercoach npc class
+- [-] add boss erik class
+- [-] implement scenes wisselen
 - [x] implement app doorgeven
-- [ ] spritesheets
-- [ ] vector math
-- [ ] physics
-- [ ] pixijs advanced
-- [ ] vershillende game mechanics en systems
+- [-] spritesheets
+- [-] vector math
+- [-] physics
+- [-] pixijs advanced
+- [-] vershillende game mechanics en systems
+
 
 graphic design: 
 (pixelart)
@@ -192,7 +193,7 @@ graphic design:
   - [o] player character luuk
   - [o] player character zino
   - [o] player character dani
-  - [ ] hack sword
+  - [o] hack sword
 
   - [ ] room tiles classroom
   - [ ] room tiles hallway
