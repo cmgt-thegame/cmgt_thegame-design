@@ -1,10 +1,7 @@
 # Pitch
-https://docs.google.com/presentation/d/1OKn0Oyt06tsUW8a8rTp-_F7P_BzkHUzV1T11VzqQ8Eo/edit?usp=sharing
+Slides: https://docs.google.com/presentation/d/1OKn0Oyt06tsUW8a8rTp-_F7P_BzkHUzV1T11VzqQ8Eo/edit?usp=sharing
 
-
-https://drive.google.com/file/d/1r6jqnK56l0cTskcrucIHscpoFOdQxww1/view?usp=sharing
-
-https://bit.ly/39mGyeK
+Onepager: https://drive.google.com/file/d/1r6jqnK56l0cTskcrucIHscpoFOdQxww1/view?usp=sharing (https://bit.ly/39mGyeK)
 
 ## Doelgroep
 CMGT Studenten & Docenten
@@ -85,18 +82,18 @@ Scan de qr code
 
 ## Checklist
 
-*- Is het een logische oplossing?*   
-*- Kun je jouw pitch makkelijk navertellen?*   
-*- Is de pitch gericht naar jouw doelgroep?*   
+*- Is het een logische oplossing?*   ?
+*- Kun je jouw pitch makkelijk navertellen?*  ? 
+*- Is de pitch gericht naar jouw doelgroep?* Ja  
 *- Word het probleem en de context van het probleem eerst goed uitgelegd?*   Ja
 *- Is het idee überhaupt goed?*   Ja
 *- Is de pitch kort genoeg? Worden er geen dingen herhaalt*   Ja
-*- Waarin blinkt jouw idee uit boven andere ideeën?*   
+*- Waarin blinkt jouw idee uit boven andere ideeën?* Ja
 *- Heeft het speciale en of pakkende extra features?*  Ja  
 *- Is de markt groot genoeg om er moeite in te steken?*   Ja
 *- Blijft de kijker na de pitch over met een gericht idee of actie om uit te voeren?*   Ja
 *- Heeft jouw concept een goede en krachtige slagzin?*   -
 *- Heb je een duidelijk doel voor ogen?*   Ja
-*- Is je verhaal inspirerend?*   
+*- Is je verhaal inspirerend?*   ?
 *- Vertel je met jouw pitch een verhaal?*    ~
 *- Zit er genoeg humor in je pitch en of is je verhaal niet te serieus?*    Ja
